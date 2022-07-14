@@ -6,4 +6,4 @@ extra_payment = (float(hours)-40)*(float(rate)*0.5)
 if float(hours)>40:
   print(payment + extra_payment)
 else:
-  print(payment)
+  print(payment).

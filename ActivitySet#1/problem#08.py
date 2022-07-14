@@ -8,4 +8,3 @@ if file_name == 'progrm8.txt':
 else:
     print("Invalid file name")
 file_exe.close()
-#sak
